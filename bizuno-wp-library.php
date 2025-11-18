@@ -13,7 +13,7 @@
  * License:     Affero GPL 3.0
  * License URI: https://www.gnu.org/licenses/agpl-3.0.txt
  * Domain Path: /locale
- * Update URI:  https://bizuno.com/downloads/bizuno-wp-library/bizuno-wp-library.json
+ * Update URI:  https://bizuno.com/downloads/wordpress/plugins/bizuno-wp-library/bizuno-wp-library.json
  */
 
 defined( 'ABSPATH' ) || exit;
